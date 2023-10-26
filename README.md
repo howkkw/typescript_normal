@@ -27,7 +27,7 @@ If you are developing a production application, we recommend updating the config
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
 설치해야 할것 :
-npm i react-router-dom@6.14.2
-npm i styled-reset
-npm i style-components@6.0.7
-npm i @types/styled-components -D
+- npm i react-router-dom@6.14.2
+- npm i styled-reset
+- npm i style-components@6.0.7
+- npm i @types/styled-components -D
